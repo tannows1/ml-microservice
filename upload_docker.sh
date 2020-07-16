@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="tannows1/ml-microservice:latest"
+dockerpath="tannows/ml-microservice:latest"
 
 # Step 2:
 # Authenticate & tag
